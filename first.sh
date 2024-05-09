@@ -6,8 +6,8 @@
 
 #this code written by git-ssh-instance
 first="sameer"
-last="patlekar"
-full="$first $last"
+surname="patlekar"
+full="$first $surname"
 
 echo "$full"
 
