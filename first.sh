@@ -8,7 +8,7 @@
 first="sameer"
 surname="patlekar"
 full="$first $surname"
-
+echo "hello"
 echo "$full"
 
 
